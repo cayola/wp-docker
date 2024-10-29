@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo de `README.md` con estándares habituales, la estructura común para un proyecto que usa Docker, y con una licencia MIT:
-
-```markdown
 # WordPress Dockerized Setup
 
 Este proyecto configura un entorno de desarrollo de WordPress utilizando `docker-compose`, integrando MySQL, phpMyAdmin y un contenedor de WordPress. Incluye un script Bash para gestionar permisos en el volumen `wp-content`.
@@ -86,10 +83,3 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-**Nota**: Recuerda siempre ejecutar los contenedores en el entorno adecuado para garantizar un despliegue seguro y funcional.
-```
-
-Este `README.md` sigue estándares de documentación, incluye una guía de instalación, detalles de los servicios configurados en `docker-compose`, instrucciones de uso para el script de permisos y la licencia MIT.
